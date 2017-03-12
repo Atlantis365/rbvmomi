@@ -1,0 +1,147 @@
+{
+  "DevStack": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "Ubuntu_14.04": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRLI01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "WebServer01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRUBU01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "ChefDev01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRIAAS01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "CentOS_7": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VIC-Host-01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "PuppetClient01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "ChefClient01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VIC-Harbor": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRKVMUBU01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRVRA01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "Kube-Master": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBROPS01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRPHOTON01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "DBServer01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "PuppetMaster": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRDC01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRVC01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "VBRVRO01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "Ubuntu_16.04": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "Kube-Worker01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "Windows_2016": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "AnsibleServer": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "Jenkins": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  },
+  "admiral-1723c71de400b529a02c54fbb4d5bf2d61337953f11f4804428dd1b5cda01f42": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "DVSwitch: 50 09 6d ef 81 86 72 e6-b2 40 4b 35 b5 83 5c 33"
+  },
+  "ChefServer01": {
+    "host": "vbrmgtesx01.virtualbrakeman.local",
+    "cluster": "VBR_Mgmt_Cluster",
+    "network": "vSS_Mgmt_Network"
+  }
+}
